@@ -1,0 +1,13 @@
+body{
+    background-image: url(../img/userlogin.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+.border-rounded{
+    border:3px solid #312F21;
+    border-radius: 10px;
+}
+u{
+    color:#2897a7;
+}
