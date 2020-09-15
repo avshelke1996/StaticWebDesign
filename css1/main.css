@@ -1,0 +1,88 @@
+body{
+    background-color: #ceb8c0;
+}
+.btn-outline-success{
+    color: #651725;
+    border-color: #651725;
+}
+.btn-outline-success:hover{
+    background-color: #651725;
+    border-color: #651725;
+}
+.logo{
+width: 40px;
+}
+#navbarNavDropdown ul li a{
+    color: #651725;
+    font-size: 18px;
+}
+#navbarNavDropdown ul li a:hover{
+    text-decoration: underline;
+}
+
+.slick-next:before, .slick-prev:before {
+    color:black;
+    opacity: 0.3;
+}
+.slogan{
+    color: #651725;
+    text-shadow: 5px 5px 10px #651725;
+    text-decoration: underline;
+}
+
+.jumbotron {
+
+    /* background-color: transparent; */
+    background-image: url(PROMO-WOODART-DECOR.jpg);
+     height: 420px; 
+}
+.navbar,.footer{
+    background-color:#F0EAEB;
+
+}
+.footer{
+    color: #651725;
+}
+.list-unstyled ul li a{
+    color: #651725;
+}
+/* .footer{
+    background-color:#312F21;
+} */
+span {
+    
+color: red;
+}
+
+.brand-wrapper{
+    height: 40px;
+}
+.brand-wrapper{
+    background-color: #312F21;
+    color: white;
+}
+#carouselExampleIndicators img{
+    height: 470px;
+    
+
+}
+
+.a{
+height: 350px;
+width: 100%;
+margin-right: auto;
+margin-left: auto;
+}
+
+a button{
+    background-color: chocolate;
+}
+.introduction{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.leading-relaxed{
+    color: black;
+}
